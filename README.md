@@ -1,5 +1,7 @@
 # Hi there, I'm Ivan - aka [TheArchiviste] 👋
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=TheArchiviste.visitor-badge&left_text=My%20Page%20Visitors)
+
 ## I'm a University Student and Developer: 
 - 📖 I'm currently studying Computer Science (BSc)!
 - 🔭 I’m currently working on a Physics Research Fellowship!
@@ -31,6 +33,8 @@
 <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://www.swi-prolog.org/" target="_blank" rel="noreferrer"> <img src="https://dashboard.snapcraft.io/site_media/appmedia/2020/04/Prolog-logo-512.png" alt="prolog" width="40" height="40"/> </a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheArchiviste&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
@@ -75,3 +79,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+## Stats:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheArchiviste&show_icons=true&count_private=true&theme=tokyonight)
