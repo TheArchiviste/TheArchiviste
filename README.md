@@ -1,7 +1,5 @@
 # Hi there, I'm Ivan - aka [TheArchiviste] 👋
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=TheArchiviste.visitor-badge&left_text=My%20Page%20Visitors)
-
 ## I'm a University Student and Developer: 
 - 📖 I'm currently studying Computer Science (BSc)!
 - 🔭 I’m currently working on a Physics Research Fellowship!
