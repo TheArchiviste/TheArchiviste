@@ -1,4 +1,4 @@
-# Hi there, I'm Ivan - aka [TheArchiviste] 👋
+# Hi there 👋, I'm Ivan - aka [TheArchiviste]
 
 ## I'm a University Student and Developer: 
 - 📖 I'm currently studying Computer Science (BSc)!
