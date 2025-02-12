@@ -2,7 +2,7 @@
 
 ## About:
 
-Results-driven Computer Science graduate. Focused on establishing ground as a Cybersecurity Engineer and Analyst. I want to gain more experience in digital forensics and malware analysis, penetration testing, and cloud security while advancing my current network security and cryptography knowledge. My topic of interest (research) is AI-driven cybersecurity and metaheuristic algorithms.
+Results-driven Computer Science graduate. Focused on establishing ground as a Cybersecurity Engineer and Analyst. I want to gain more experience in digital forensics and malware analysis, penetration testing, and cloud security while advancing my current network security and cryptography knowledge. My topic of interest (research) is AI-driven cybersecurity and metaheuristic algorithms. Although my main interest heavily concerns cybersecurity, I am as passionate and invested in Backend Development, too.
 
 ## 💼 Technical Skills:
 
