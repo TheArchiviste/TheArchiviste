@@ -24,8 +24,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheArchiviste&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<br />
-
 ### Frameworks:
 
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://icon-library.com/images/django-icon/django-icon-0.jpg" alt="Django" width="40" height="40"/> </a> 
