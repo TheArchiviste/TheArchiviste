@@ -1,12 +1,10 @@
 # Hi there 👋, I'm Ivan - aka [TheArchiviste]
 
-## I'm a University Student and Developer: 
+## I'm a Graduate Computer Science Student: 
 - 📖 I'm currently studying Computer Science (BSc)!
 - 🔭 I’m currently working on a Physics Research Fellowship!
 - 🌱 I’m currently learning C++, Scala and Arduino. 
 - 👯 I’m looking to collaborate with enthusiastic people on any fun and interesting projects.
-- 👨‍💻 All of my projects are available at: blog link
-- 📄 Know about my experiences: resume link
 - ⚡ Fun fact: I love to row, sightsee and play guitar / piano.
 
 ### Connect with me:
