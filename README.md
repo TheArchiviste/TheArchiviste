@@ -1,11 +1,8 @@
 # Hi there 👋, I'm Ivan - aka [TheArchiviste]
 
-## I'm a Graduate Computer Science Student: 
-- 📖 I'm currently studying Computer Science (BSc)!
-- 🔭 I’m currently working on a Physics Research Fellowship!
-- 🌱 I’m currently learning C++, Scala and Arduino. 
-- 👯 I’m looking to collaborate with enthusiastic people on any fun and interesting projects.
-- ⚡ Fun fact: I love to row, sightsee and play guitar / piano.
+## About:
+
+Results-driven Computer Science graduate. Focused on establishing ground as a Cybersecurity Engineer and Analyst. I want to gain more experience in digital forensics and malware analysis, penetration testing, and cloud security while advancing my current network security and cryptography knowledge. My topic of interest (research) is AI-driven cybersecurity and metaheuristic algorithms.
 
 ## 💼 Technical Skills:
 
