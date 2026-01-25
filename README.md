@@ -10,16 +10,16 @@ MSc Information Security student at UCL and CS graduate with hands-on network se
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a> 
-<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg](https://media.licdn.com/dms/image/v2/D4D12AQEM9F_-u1OT5Q/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1658763190886?e=2147483647&v=beta&t=aEp72fzTRZC_0EilFbT0wVV2jw6O-Bqt759qLG4pLrw)" alt="C" width="40" height="40"/> </a>
+<img src="https://media.licdn.com/dms/image/v2/D4D12AQEM9F_-u1OT5Q/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1658763190886?e=2147483647&v=beta&t=aEp72fzTRZC_0EilFbT0wVV2jw6O-Bqt759qLG4pLrw)" alt="Assembly" width="40" height="40"/> </a>
 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://www.swi-prolog.org/" target="_blank" rel="noreferrer"> <img src="https://dashboard.snapcraft.io/site_media/appmedia/2020/04/Prolog-logo-512.png" alt="prolog" width="40" height="40"/> </a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/> </a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+<img src="https://dashboard.snapcraft.io/site_media/appmedia/2020/04/Prolog-logo-512.png" alt="prolog" width="40" height="40"/> </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheArchiviste&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
