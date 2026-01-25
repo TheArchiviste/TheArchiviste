@@ -24,9 +24,9 @@ MSc Information Security student at UCL and CS graduate with hands-on network se
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheArchiviste&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Cybersecurity Tools:
-<img src="https://icon-library.com/images/django-icon/django-icon-0.jpg" alt="Django" width="40" height="40"/> </a> 
-<img src="https://icon-library.com/images/django-icon/django-icon-0.jpg" alt="Django" width="40" height="40"/> </a> 
-<img src="https://icon-library.com/images/django-icon/django-icon-0.jpg" alt="Django" width="40" height="40"/> </a> 
+<img src="https://portswigger.net/content/images/logos/burpsuite-twittercard.png" alt="Burp" width="40" height="40"/> </a> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wireshark_icon.svg/500px-Wireshark_icon.svg.png" alt="Wireshark" width="40" height="40"/> </a> 
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/cyberchef.png" alt="Cybershef" width="40" height="40"/> </a> 
 
 ### Frameworks:
 
