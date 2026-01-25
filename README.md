@@ -2,14 +2,16 @@
 
 ## About:
 
-Results-driven Computer Science graduate. Focused on establishing ground as a Cybersecurity Engineer and Analyst. I want to gain more experience in digital forensics and malware analysis, penetration testing, and cloud security while advancing my current network security and cryptography knowledge. My topic of interest (research) is AI-driven cybersecurity and metaheuristic algorithms. Although my main interest heavily concerns cybersecurity, I am as passionate and invested in Backend Development, too.
+MSc Information Security student at UCL and CS graduate with hands-on network security experience; attack reproduction, traffic investigation and mitigation evaluation in Linux lab environments. Strong programming background with experience teaching and communicating technical knowledge. I am currently focusing on understanding the impact of AI tools in cybersecurity, their benefits, modes of failure, and operational overhead.
 
 ## 💼 Technical Skills:
 
 ### Languages:
 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a> 
+<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg](https://media.licdn.com/dms/image/v2/D4D12AQEM9F_-u1OT5Q/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1658763190886?e=2147483647&v=beta&t=aEp72fzTRZC_0EilFbT0wVV2jw6O-Bqt759qLG4pLrw)" alt="C" width="40" height="40"/> </a>
+
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/> </a>
@@ -21,11 +23,13 @@ Results-driven Computer Science graduate. Focused on establishing ground as a Cy
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheArchiviste&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+### Cybersecurity Tools:
+
+
 ### Frameworks:
 
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://icon-library.com/images/django-icon/django-icon-0.jpg" alt="Django" width="40" height="40"/> </a> 
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-<a href="https://openjfx.io/" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2021/07/communityIcon_4v21sx0aiam41.png?fit=256%2C171&ssl=1" alt="javafx" width="40" height="40"/> </a> 
 
 ### Databases:
 
