@@ -13,7 +13,7 @@ MSc Information Security student at UCL and CS graduate with hands-on network se
 <img src="https://i.pinimg.com/736x/25/a8/5d/25a85d9e5057430d82273a3c75e73014.jpg" alt="Assembly" width="40" height="40"/> </a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<img src="https://www.svgrepo.com/download/519020/rust.svg" alt="rust" width="40" height="40"/> </a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Rustacean-orig-noshadow.svg" alt="rust" width="40" height="40"/> </a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a>
 <img src="https://dashboard.snapcraft.io/site_media/appmedia/2020/04/Prolog-logo-512.png" alt="prolog" width="40" height="40"/> </a>
