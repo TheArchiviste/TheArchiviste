@@ -2,7 +2,7 @@
 
 ## About:
 
-MSc Information Security student at UCL and CS graduate with hands-on network security experience; attack reproduction, traffic investigation and mitigation evaluation in Linux lab environments. Strong programming background with experience teaching and communicating technical knowledge. I am currently focusing on understanding the impact of AI tools in cybersecurity, their benefits, modes of failure, and operational overhead.
+Security Engineering MSc student with practical experience emulating real-world network attacks, analysing traffic to extract protocol-level indicators, and documenting mitigation effectiveness in Linux environments. Strong background in cryptography and systems development, namely compiler design. Passionate about applying security-driven engineering principles in combination with ML-inspired solutions to enhance system reliability and resilience.
 
 ## 💼 Technical Skills:
 
