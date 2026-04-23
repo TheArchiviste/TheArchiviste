@@ -2,14 +2,13 @@
 
 ## About:
 
-Security Engineering MSc student with practical experience emulating real-world network attacks, analysing traffic to extract protocol-level indicators, and documenting mitigation effectiveness in Linux environments. Strong background in cryptography and systems development, namely compiler design. Passionate about applying security-driven engineering principles in combination with ML-inspired solutions to enhance system reliability and resilience.
+Information Security MSc candidate with hands-on experience building Python-based security tooling, automating security lab workflows, and investigating network and binary-security scenarios in Linux environments. Practical experience across ARP poisoning, MITM, spoofing, TCP/UDP abuse, traffic analysis, exploit debugging, and threat modelling through personal labs and CTF-style challenges. Comfortable with Python, Linux/Unix, TCP/IP, DNS, HTTP/S, Wireshark, Scapy, and low-level systems concepts. Interested in building automation, detection, and investigation tooling for security engineering and SOC teams.
 
 ## 💼 Technical Skills:
 
 ### Languages:
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a> 
 <img src="https://i.pinimg.com/736x/25/a8/5d/25a85d9e5057430d82273a3c75e73014.jpg" alt="Assembly" width="40" height="40"/> </a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
