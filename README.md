@@ -2,7 +2,10 @@
 
 ## About:
 
-Information Security MSc candidate with hands-on experience building Python-based security tooling, automating security lab workflows, and investigating network and binary-security scenarios in Linux environments. Practical experience across ARP poisoning, MITM, spoofing, TCP/UDP abuse, traffic analysis, exploit debugging, and threat modelling through personal labs and CTF-style challenges. Comfortable with Python, Linux/Unix, TCP/IP, DNS, HTTP/S, Wireshark, Scapy, and low-level systems concepts. Interested in building automation, detection, and investigation tooling for security engineering and SOC teams.
+Information Security MSc candidate focused on cyber defence, vulnerability management, incident investigation, threat intelligence, and secure-by-design engineering. Experienced in using Python, Linux,
+Scapy, Wireshark, Burp Suite, and GDB to analyse network, application, and binary-level security issues, identify indicators of compromise, investigate malicious traffic, document root causes, and recommend mitigations. Familiar with TCP/IP, logs and telemetry, SIEM/EDR concepts, firewall/IDS fundamentals, and Azure security foundations. Motivated to support incident triage, threat-informed analysis,
+security reporting, and continuous improvement in mission-critical international environments.
+
 
 ## 💼 Technical Skills:
 
